@@ -1,4 +1,6 @@
 # techno-cursos
+ - Projeto desenvolvido para mostrar uma pequena aplicação envolvendo o Vue Router
+ - Utilizar o arquivo api.json como o arquivo que contem todos os dados de cursos. Para conseguir usá-lo utilize o comando 'json-server --watch api.json'
 
 ## Project setup
 ```
